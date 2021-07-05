@@ -1,0 +1,3 @@
+include ':clickableViewPager'
+include ':app'
+rootProject.name = "ClickableViewPager"

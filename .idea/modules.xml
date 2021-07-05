@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ClickableViewPager.iml" filepath="$PROJECT_DIR$/.idea/modules/ClickableViewPager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ClickableViewPager.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ClickableViewPager.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/clickableViewPager/ClickableViewPager.clickableViewPager.iml" filepath="$PROJECT_DIR$/.idea/modules/clickableViewPager/ClickableViewPager.clickableViewPager.iml" />
+    </modules>
+  </component>
+</project>
